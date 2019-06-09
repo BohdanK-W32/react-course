@@ -1,0 +1,15 @@
+.btn {
+  background: transparent;
+  font-size: 5vh;
+  font-weight: 900;
+  border: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.option {
+  padding: 10px;
+  text-transform: uppercase;
+}

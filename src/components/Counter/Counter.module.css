@@ -1,0 +1,22 @@
+.value {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: white;
+  width: 150px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: #33e;
+}
